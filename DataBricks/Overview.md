@@ -3,10 +3,9 @@ Databricks is an analytics platform designed for working with big data, analytic
 
 Databricks is built on [[Apache Spark]].
 ## UI
-* [[Workspaces]]
-* [[Catalog]]
-* [[Workflows]]
-* [[Compute]]
+* [[UI#Databricks Workspaces | Workspaces]]
+* [[UI#Databricks Catalog | Catalog]]
+* [[UI#Databricks Compute  | Compute]]
 * [[Experiments]]
 ## Resources
 * [What is Databricks](https://docs.databricks.com/en/introduction/index.html)

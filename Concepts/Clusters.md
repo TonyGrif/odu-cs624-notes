@@ -1,0 +1,2 @@
+# Clusters
+Clusters are a collection of computers (or nodes) working together to perform a task. This is done through distributing the workload across nodes. A central node is in charge of orchestrating the tasks and coordinating all other worker nodes.
