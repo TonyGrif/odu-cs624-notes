@@ -1,0 +1,2 @@
+# Spark Streaming
+This enables the processing of live data streams for real-time analysis. Data is processed in mini-batches by dividing the incoming data stream into small batches, then processing them sequentially.
